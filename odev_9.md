@@ -1,4 +1,4 @@
-# HOMEWORK 9
+# Ödev-9 Soru Çözümleri
 
 `Question 1:` _city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız._
 ```
